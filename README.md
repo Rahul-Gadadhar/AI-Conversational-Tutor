@@ -23,6 +23,7 @@ pip install streamlit langchain python-dotenv
 ```
   
 Configure your environment:  
+  
 Create a .env file in the root directory.  
 Add your Google API key:  
 ```ini  
