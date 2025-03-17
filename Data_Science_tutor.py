@@ -10,7 +10,7 @@ from datetime import datetime
 
 load_dotenv()
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCrOc5PMlKnYpIuPzGO01HoQ8WZ6Ca6E5c"
+os.environ["GOOGLE_API_KEY"] = ["GOOGLE_API_KEY"}
 
 st.set_page_config(
     page_title="Data Science Tutor",
