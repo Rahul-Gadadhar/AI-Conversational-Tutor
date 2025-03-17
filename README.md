@@ -16,13 +16,13 @@ git clone https://github.com/your-username/data-science-ai-tutor.git
 cd data-science-ai-tutor
 ```
   
-# Install dependencies:  
+Install dependencies:  
 ```bash  
 pip install streamlit langchain python-dotenv  
 # Also ensure you have the ChatGoogleGenerativeAI package if not already installed
 ```
   
-# Configure your environment:  
+Configure your environment:  
 Create a .env file in the root directory.  
 Add your Google API key:  
 ```ini  
