@@ -3,11 +3,11 @@
 An interactive, AI-powered Data Science Tutor built with Streamlit, LangChain, and Google Generative AI. This tool provides personalized tutoring on data science topics—such as statistics, machine learning, data analysis, and programming—with real-time conversation and code examples.  
   
 # Features  
-Conversational Interface: Chat with an AI tutor in a sleek Streamlit web app.  
-Session Management: Start, switch, or clear conversations with unique session IDs.  
-Memory & Context: Uses LangChain’s ConversationBufferMemory to keep track of dialogue context.  
-Automated Titles: Generates descriptive conversation titles using a generative AI model.  
-Focused Expertise: Delivers explanations and examples solely on data science topics.  
+- **Conversational Interface:** Chat with an AI tutor in a sleek Streamlit web app.  
+- **Session Management:** Start, switch, or clear conversations with unique session IDs.  
+- **Memory & Context:** Uses LangChain’s ConversationBufferMemory to keep track of dialogue context.  
+- **Automated Titles:** Generates descriptive conversation titles using a generative AI model.  
+- **Focused Expertise:** Delivers explanations and examples solely on data science topics.  
   
 # Installation     
 Clone the repository:  
